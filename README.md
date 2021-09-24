@@ -1,6 +1,6 @@
-# BasicNeuralNetwork
+# Basic Neural Network
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github/auliakhilmi/BasicNeuralNetwork)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github/rizgiak/BasicNeuralNetwork)
 
 ### Installation
 This package using `gnuplot` to plot the error graph and `gnuplot-iostream` as include
